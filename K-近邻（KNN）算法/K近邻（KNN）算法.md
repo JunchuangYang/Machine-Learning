@@ -6,11 +6,11 @@
 
 >  下面通过一个简单的例子说明一下：如下图，绿色圆要被决定赋予哪个类，是红色三角形还是蓝色四方形？如果K=3，由于红色三角形所占比例为2/3，绿色圆将被赋予红色三角形那个类，如果K=5，由于蓝色四方形比例为3/5，因此绿色圆被赋予蓝色四方形类。
 
-![图片](https://images0.cnblogs.com/blog2015/771535/201508/041623504236939.jpg)
+![图片](https://github.com/JunchuangYang/Machine-Learning/blob/master/K-%E8%BF%91%E9%82%BB%EF%BC%88KNN%EF%BC%89%E7%AE%97%E6%B3%95/pic1.png)
 
 在KNN中，通过计算对象间距离来作为各个对象之间的非相似性指标，避免了对象之间的匹配问题，在这里距离一般使用欧氏距离或曼哈顿距离：
 
-                      
+![图片](https://github.com/JunchuangYang/Machine-Learning/blob/master/K-%E8%BF%91%E9%82%BB%EF%BC%88KNN%EF%BC%89%E7%AE%97%E6%B3%95/pic2.png)          
 
 同时，KNN通过依据k个对象中占优的类别进行决策，而不是单一的对象类别决策。这两点就是KNN算法的优势。
 

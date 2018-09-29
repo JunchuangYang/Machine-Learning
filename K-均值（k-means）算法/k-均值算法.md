@@ -1,4 +1,4 @@
-#K-均值（means）算法<br>
+# K-均值（means）算法<br>
 
 参考原文[Yabea](https://www.cnblogs.com/ybjourney/p/4714870.html)
 

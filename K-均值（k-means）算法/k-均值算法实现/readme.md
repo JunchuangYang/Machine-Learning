@@ -28,7 +28,9 @@ KMeans算法是典型的基于距离的聚类算法，采用距离作为相似�
 
 **(1)辅助函数myUtil.py**
 
-```新乡县
+<<<<<<< HEAD
+```Python
+
 # -*- coding:utf-8 -*-
 from mpmath import zeros
 import numpy as np

@@ -28,7 +28,7 @@ KMeans算法是典型的基于距离的聚类算法，采用距离作为相似�
 
 **(1)辅助函数myUtil.py**
 
-```
+```新乡县
 # -*- coding:utf-8 -*-
 from mpmath import zeros
 import numpy as np
@@ -91,7 +91,7 @@ def color_cluster(dataindx,dataSet,plt):
 
 **(2)KMeans实现核心函数kmeans.py**
 
-```
+```python
 from myUtil import *
 
 def kMeans(dataSet,k):
@@ -152,7 +152,7 @@ def kMeans(dataSet,k):
 ```
 **(3)KMeans算法运行主函数kmeans_test.py**
 
-```
+```python
 # -*- encoding:utf-8 -*-
 
 from kmeans import *

@@ -15,7 +15,7 @@
 
 代码中所用到求球面距离的公式：
 球面距离公式是计算球面上两点间距离的公式
-![1](D:\Machine-Learning\K-均值(k-means)算法\MapCluster\1.png)
+![1](1.png)
 
 参考：https://blog.csdn.net/lilong117194/article/details/78483812
 

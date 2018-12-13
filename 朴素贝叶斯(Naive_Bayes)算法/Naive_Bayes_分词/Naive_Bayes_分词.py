@@ -97,8 +97,8 @@ def trainNB(trainMat,classVec):
     # print(pAb)--->0.5 ---> 3/6
     p0Num = np.ones(m) # 词条出现初始化为1-->列表长度为32
     p1Num = np.ones(m) # 词条出现初始化为1
-    p0Denom = 1 # 分母初始化为1
-    p1Denom = 1 # 分母初始化为1
+    p0Denom = 2 # 分母初始化为2
+    p1Denom = 2 # 分母初始化为2
     for i in range(n):  # 遍历每一个文档
         if classVec[i] == 1: # 统计属于侮辱类的条件概率所需的数据
             p1Num += trainMat[i]

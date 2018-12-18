@@ -18,3 +18,5 @@
 
 [机器学习实战教程（三）：决策树实战篇之为自己配个隐形眼镜](https://cuijiahua.com/blog/2017/11/ml_3_decision_tree_2.html)
 
+[决策树系列（一）——基础知识回顾与总结](https://www.cnblogs.com/yonghao/p/5061873.html)
+

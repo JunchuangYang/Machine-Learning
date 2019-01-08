@@ -8,3 +8,5 @@
 
 [[菊安酱的机器学习]第7期 线性回归](https://www.bilibili.com/video/av38401189)
 
+[机器学习实战教程（十二）：线性回归提高篇之乐高玩具套件二手价预测](https://cuijiahua.com/blog/2017/12/ml_12_regression_2.html)
+
